@@ -1,0 +1,11 @@
+C:\Users\Байастан\Desktop\DeltaControllerConsole\DeltaControllerConsole\obj\Debug\DeltaControllerConsole.csproj.AssemblyReference.cache
+C:\Users\Байастан\Desktop\DeltaControllerConsole\DeltaControllerConsole\obj\Debug\DeltaControllerConsole.csproj.CoreCompileInputs.cache
+C:\Users\Байастан\Desktop\DeltaControllerConsole\DeltaControllerConsole\bin\Debug\DeltaControllerConsole.exe.config
+C:\Users\Байастан\Desktop\DeltaControllerConsole\DeltaControllerConsole\bin\Debug\DeltaControllerConsole.exe
+C:\Users\Байастан\Desktop\DeltaControllerConsole\DeltaControllerConsole\bin\Debug\DeltaControllerConsole.pdb
+C:\Users\Байастан\Desktop\DeltaControllerConsole\DeltaControllerConsole\bin\Debug\EasyModbus.dll
+C:\Users\Байастан\Desktop\DeltaControllerConsole\DeltaControllerConsole\bin\Debug\EasyModbus.xml
+C:\Users\Байастан\Desktop\DeltaControllerConsole\DeltaControllerConsole\obj\Debug\DeltaCon.24A08955.Up2Date
+C:\Users\Байастан\Desktop\DeltaControllerConsole\DeltaControllerConsole\obj\Debug\DeltaControllerConsole.exe
+C:\Users\Байастан\Desktop\DeltaControllerConsole\DeltaControllerConsole\obj\Debug\DeltaControllerConsole.pdb
+C:\Users\Байастан\Desktop\DeltaControllerConsole\DeltaControllerConsole\obj\Debug\DeltaControllerConsole.exe.config
